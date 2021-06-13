@@ -2,7 +2,7 @@
 
 This program demonstrates the following:
 </br>
-Connecting to a SQL Server instance with a database string.
+Connecting to a SQL Server Express instance with a database string.
 </br>
 Querying the DB.
 </br>
@@ -17,8 +17,8 @@ VS will pop up with a browser window to render the page.
 </br>
 
 Before running this, remember to attach the database files and connect Visual Studio to the local
-SQL Server Instance. 
-Attach the database to SQL Server or SQL Server Express. The database files are ASPWP.mdf and ASPWP_log.ldf
+SQL Server Express Instance. 
+Attach the database to SQL Server Express. The database files are ASPWP.mdf and ASPWP_log.ldf
 </br>
 
 Screen Shot:
