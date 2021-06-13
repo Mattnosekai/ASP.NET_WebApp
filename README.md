@@ -20,6 +20,7 @@ Before running this, remember to attach the database files and connect Visual St
 SQL Server Instance. 
 Attach the database to SQL Server or SQL Server Express. The database files are ASPWP.mdf and ASPWP_log.ldf
 </br>
+
 Screen Shot:
 
 ![Screen Shot](https://github.com/Mattnosekai/ASP.NET_WebApp/blob/master/WebApp_Screenshot2.png)
