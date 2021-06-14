@@ -2,6 +2,8 @@
 
 This program demonstrates the following:
 </br>
+(Programmatically/via code)
+</br>
 Connecting to a SQL Server Express instance with a database string.
 </br>
 Querying the DB.
