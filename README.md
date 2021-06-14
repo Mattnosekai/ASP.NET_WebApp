@@ -21,9 +21,9 @@ SQL Server Express Instance.
 Attach the database to SQL Server Express. The database files are ASPWP.mdf and ASPWP_log.ldf
 </br>
 
-Screen Shot:
+Screenshot:
 
-![Screen Shot](https://github.com/Mattnosekai/ASP.NET_WebApp/blob/master/WebApp_Screenshot2.png)
+![Screenshot](https://github.com/Mattnosekai/ASP.NET_WebApp/blob/master/WebApp_Screenshot2.png)
 
 
 
